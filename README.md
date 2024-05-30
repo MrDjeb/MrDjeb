@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <a href="https://t.me/mrdjeb">
+  <a href="https://t.me/+6-x9EICSH5BhODYy">
     <img width="60" height="60" src="https://github.com/MrDjeb/MrDjeb/assets/45202102/3278e398-e610-423e-9492-53c2f6d053d0"/>
   </a>
 
@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mrdjeb)
   
   <br>
-  <h1 align='center'><i>  We have one way – GoWay!</i></h1>
+  <a href="https://t.me/+6-x9EICSH5BhODYy"><h1 align='center'><i>  We have one way – GoWay!</i></h1></a>
   <p>
   </p>
   <br>
